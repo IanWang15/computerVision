@@ -2,5 +2,5 @@
 
 Computer Vision projects includes
 1. Identify the traffic Signs
-2. Replace specific areas of a video with a different video using AR (Augmented reality)
-3. Detect Motion
+2. A virtual video projected on a wall in the live video using AR (Augmented reality)
+3. Motion Detection
